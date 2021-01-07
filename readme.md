@@ -6,7 +6,7 @@ Simple Application to search movies and view the details of the movies
 - [Live](https://expo.io/@anirudha4/projects/movie-search-app)
 
 ## Screenshots
-- ![moviesearch](https://firebasestorage.googleapis.com/v0/b/dynamite-beff5.appspot.com/o/WhatsApp%20Image%202021-01-07%20at%206.34.54%20PM.jpeg?alt=media&token=4ab69b68-c060-4a43-879a-656ae7138107)
+- ![moviesearch]https://firebasestorage.googleapis.com/v0/b/dynamite-beff5.appspot.com/o/movie-search.png?alt=media&token=9ca77f58-b2c9-4baf-aba8-e463854e3970)
 
 ## References
 
