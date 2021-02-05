@@ -16,7 +16,7 @@ Simple Application to search movies and view the details of the movies
 
 ## Technology
 
-- [React](https://reactjs.org/) + [Redux](https://redux.js.org/) + [React Native](https://facebook.github.io/react-native/)
+- [React](https://reactjs.org/) + [React Native](https://facebook.github.io/react-native/)
 
 ## Requirements
 
